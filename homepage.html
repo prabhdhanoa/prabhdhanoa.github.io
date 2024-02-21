@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Personal Webpage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+        header {
+            background-color: #004b66;
+            color:#fff;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            background-color: #005e80;
+            padding: 10px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+            margin: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Prabhkirat Dhanoa (ਪ੍ਰਭਕੀਰਤ  ਧਨੋਆ )</h1>
+    </header>
+    <nav> <h2 style="font-size:20px; color: White;">Welcome to My Personal Homepage</h2>
+    </nav>
+    <section id="info">
+        <h2>About Me</h2>
+        <p> Hi my name is Prabhkirat Dhanoa, I am a full time student who is enrolled at York University in the Information Technology program. I enjoy web designing and   creating prototypes. I also enjoy playing various sports such as basketball, soccer, and baseball. I also enjoy reading manga, and like to stay upto date on the latest release. I also enjoy lifting weights and hitting the gym. I hope to land a job in the web designing industry as that is one section that interests me the most.</p>
+    </section>
+    <section id ="pics">
+        <h2>Gallery</h2>
+        <img src="me.jpg" alt="my photo" style= "vertical-align: middle; width: 300px; height: 300;">
+        <img src="mountain.jpg" alt="mountains" style= "vertical-align: middle; width: 300px; height: 300; margin-left: 50px">
+        <img src="roxy.jpg" alt="doggy" style= "vertical-align: middle; width: 300px; height: 300; margin-left: 50px">
+    </section>
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Can operate Microsoft word, excel,powerpoint, access</li>
+            <li>Coding Language experience: Java, Python, Html/Css, C#, Javascript, SQL</li>
+            <li>Langauges: English, Punjabi, Hindi</li>
+            <li>Good communication</li>
+            <li>Attentive listener</li>
+            <li>Understands and fulfills requirements</li>
+            <li>Works well with others</li>
+            <li>Takes initiative</li>
+        </ul>
+    </section>
+    <section id="volunteering">
+        <h2>Volunteering & Work</h2>
+        <ul>
+            <li>Decor & Tent: Installed various tents and decor at customers houses and/or place of venue</li>
+            <li>Sikh Sangat Gurudwara: I served food and water to those who came into the Langar Hall</li>
+            <li>NDP Election: Went door to door, surveying people on their thoughts about the potential candidates</li>
+            <li>Local Food Drive: A charitable event where people came and donated food and drinks for those in need</li>
+        </ul>
+    </section>
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p><img src="phone.png" alt="Phone Logo" style="vertical-align: middle; width: 20px; height: auto; margin-right: 5px;">647-838-2765</p>
+        <p><img src="Gmail_2020.png" alt="Gmail Logo" style="vertical-align: middle; width: 20px; height: auto; margin-right: 5px;">prabhkiratdhanoa@gmail.com</p>
+        <p><img src="ig.png" alt="IG Logo" style="vertical-align: middle; width: 20px; height: auto; margin-right: 5px;">@p.s.dhanoa</p>
+    </section>
+</body>
+</html>
